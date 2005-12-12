@@ -23,7 +23,7 @@ fastdep jest (bêdzie) szybkim generatorem zale¿no¶ci dla plików C/C++.
 %build
 %configure
 %{__make} \
-	CFLAGS="%{rpmcflags}"
+	CFLAGS="%{rpmcflags}" \
 	CXXFLAGS="%{rpmcxxflags}"
 
 %install
