@@ -1,5 +1,5 @@
 Summary:	A fast dependency generator for C/C++ files
-Summary(pl.UTF-8):   Szybki generator zależności dla plików C/C++
+Summary(pl.UTF-8):	Szybki generator zależności dla plików C/C++
 Name:		fastdep
 Version:	0.16
 Release:	1
