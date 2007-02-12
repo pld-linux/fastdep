@@ -1,5 +1,5 @@
 Summary:	A fast dependency generator for C/C++ files
-Summary(pl):	Szybki generator zale¿no¶ci dla plików C/C++
+Summary(pl.UTF-8):   Szybki generator zaleÅ¼noÅ›ci dla plikÃ³w C/C++
 Name:		fastdep
 Version:	0.16
 Release:	1
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 fastdep is (will be) a fast dependency generator for C/C++ files.
 
-%description -l pl
-fastdep jest (bêdzie) szybkim generatorem zale¿no¶ci dla plików C/C++.
+%description -l pl.UTF-8
+fastdep jest (bÄ™dzie) szybkim generatorem zaleÅ¼noÅ›ci dla plikÃ³w C/C++.
 
 %prep
 %setup -q
